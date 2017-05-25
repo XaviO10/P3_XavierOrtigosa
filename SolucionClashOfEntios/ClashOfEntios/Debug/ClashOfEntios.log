@@ -1,2 +1,9 @@
 ﻿  Master.cpp
-LINK : fatal error LNK1168: no se puede abrir C:\Users\Usuario\Documents\GitHub\P3_XavierOrtigosa\SolucionClashOfEntios\Debug\ClashOfEntios.exe para escritura
+c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  ClashOfEntios.vcxproj -> C:\Users\xavierortigosacortes\Desktop\P3_XavierOrtigosa\SolucionClashOfEntios\Debug\ClashOfEntios.exe
+  ClashOfEntios.vcxproj -> C:\Users\xavierortigosacortes\Desktop\P3_XavierOrtigosa\SolucionClashOfEntios\Debug\ClashOfEntios.pdb (Full PDB)

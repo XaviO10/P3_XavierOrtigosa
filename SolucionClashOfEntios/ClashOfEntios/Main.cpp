@@ -5,7 +5,8 @@ int main()
 {
 	Master map;
 	map.inimap();
+	map.printmap(); 
+	map.entios();
 	system("pause");
-	return 0;
-	
+	return 0;	
 }
