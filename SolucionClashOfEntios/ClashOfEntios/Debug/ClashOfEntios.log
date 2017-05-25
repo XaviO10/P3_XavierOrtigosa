@@ -1,9 +1,8 @@
-﻿  Master.cpp
-c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(23): warning C4018: '<': signed/unsigned mismatch
-c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(26): warning C4018: '<': signed/unsigned mismatch
-c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(35): warning C4018: '<': signed/unsigned mismatch
-c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(38): warning C4018: '<': signed/unsigned mismatch
-c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(70): warning C4018: '<': signed/unsigned mismatch
-c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\master.cpp(73): warning C4018: '<': signed/unsigned mismatch
+﻿  Player.cpp
+c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\player.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\xavierortigosacortes\desktop\p3_xavierortigosa\solucionclashofentios\clashofentios\player.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
   ClashOfEntios.vcxproj -> C:\Users\xavierortigosacortes\Desktop\P3_XavierOrtigosa\SolucionClashOfEntios\Debug\ClashOfEntios.exe
   ClashOfEntios.vcxproj -> C:\Users\xavierortigosacortes\Desktop\P3_XavierOrtigosa\SolucionClashOfEntios\Debug\ClashOfEntios.pdb (Full PDB)
