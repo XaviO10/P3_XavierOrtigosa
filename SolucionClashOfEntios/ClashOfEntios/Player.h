@@ -11,12 +11,17 @@ private:
 		int x;
 		int y;
 	};
-	entios cooXY[12];	
+
 public:
+	entios cooXY[12];
+	int entio;
+	char terreno[12];
+
 	Master *a;
 	Player(Master &b);
+
 	void entios();
-	void input(enti::InputKey a);
+	void input(enti::InputKey a, int &_aux);
 	~Player();
 };
 

@@ -4,25 +4,29 @@
 #include "Renderer.hh"
 int main() 
 {
+	int x;
+	int y;
+	int aux = 0;
+
+	enti::InputKey key;			
+
+	Master map;
+	Player player(map);
+	map.inimap();
+	player.entios();
+
 	
-		enti::cout << "¿Que quieres hacer?" << enti::endl;
-		enti::cout << enti::cend;
+	
+	//map.printmap(x,y);		
 
-		enti::InputKey key;	
-		
-
-		Master map;
-		Player player(map);
-		map.inimap();
-		/*map.printmap();*/
 		while (true)
-		{
-			key = enti::getInputKey();				
-			player.input(key);
+		{			
+			key = enti::getInputKey();
+			player.input(key,aux);
+			x = player.cooXY[aux].x;
+			y = player.cooXY[aux].y;
+			map.printmap(x,y);
 		}
-		
-	
-	
 
 	return 0;	
 }
