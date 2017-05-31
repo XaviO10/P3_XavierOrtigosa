@@ -9,23 +9,32 @@ int main()
 	int aux = 0;
 
 	enti::InputKey key;			
+	key = enti::InputKey::NONE;
 
 	Master map;
 	Player player(map);
+
 	map.inimap();
 	player.entios();
-
-	
-	
-	//map.printmap(x,y);		
+	x = player.cooXY[aux].x;
+	y = player.cooXY[aux].y;
+	player.input(key, aux);
+	map.printmap(x,y);
+	enti::cout << enti::cend;
 
 		while (true)
-		{			
-			key = enti::getInputKey();
-			player.input(key,aux);
-			x = player.cooXY[aux].x;
-			y = player.cooXY[aux].y;
-			map.printmap(x,y);
+		{
+ 			key = enti::getInputKey();
+
+			if (key == enti::InputKey::NONE)	continue;
+			else
+			{				
+				player.input(key, aux);	
+				x = player.cooXY[aux].x;
+				y = player.cooXY[aux].y;
+				map.printmap(x, y);
+				enti::cout << enti::cend;				
+			}			
 		}
 
 	return 0;	

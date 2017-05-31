@@ -66,10 +66,7 @@ void Master::printmap(int _x,int _y)
 				enti::cout << enti::Color::YELLOW << arr2d[i][j];				
 			}			
  		}
-	}
-	enti::cout << enti::cend;
-
-	
+	}	
 }
 
 Master::~Master()

@@ -1,3 +1,9 @@
 ﻿  Player.cpp
+c:\users\usuario\documents\github\p3_xavierortigosa\solucionclashofentios\clashofentios\player.cpp(616): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\documents\github\p3_xavierortigosa\solucionclashofentios\clashofentios\player.cpp(619): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\documents\github\p3_xavierortigosa\solucionclashofentios\clashofentios\player.cpp(665): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\documents\github\p3_xavierortigosa\solucionclashofentios\clashofentios\player.cpp(668): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\documents\github\p3_xavierortigosa\solucionclashofentios\clashofentios\player.cpp(3124): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\documents\github\p3_xavierortigosa\solucionclashofentios\clashofentios\player.cpp(3127): warning C4018: '<': no coinciden signed/unsigned
   ClashOfEntios.vcxproj -> C:\Users\Usuario\Documents\GitHub\P3_XavierOrtigosa\SolucionClashOfEntios\Debug\ClashOfEntios.exe
   ClashOfEntios.vcxproj -> C:\Users\Usuario\Documents\GitHub\P3_XavierOrtigosa\SolucionClashOfEntios\Debug\ClashOfEntios.pdb (Full PDB)
