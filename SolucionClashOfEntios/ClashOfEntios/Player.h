@@ -22,6 +22,7 @@ public:
 	int flechas[12];
 	int fatiga[12];
 	int energia;
+	int ab;
 
 	Master *a;
 	Player(Master &b);

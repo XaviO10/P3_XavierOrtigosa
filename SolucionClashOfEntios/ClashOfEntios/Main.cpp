@@ -22,7 +22,8 @@ int main()
 	map.printmap(x,y);
 	enti::cout << enti::cend;
 
-		while (true)
+
+	while (true)
 		{
  			key = enti::getInputKey();
 
